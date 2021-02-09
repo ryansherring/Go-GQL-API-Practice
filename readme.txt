@@ -10,6 +10,6 @@ It should be noted that I normally use forum-style schemas to new learn backend 
 
 Next Steps
 
-I love GraphQL for a lot of different reasons. I didn't use subscriptions or mutations for this example, but I'm choosing to move forward to learning gRPC in Go, because I may have a job interview in this soon, I understand graphQL principles, and need to repetition in different use cases to get used to the Go language/syntax.
+I love GraphQL for a lot of different reasons. I didn't use subscriptions or mutations for this example, but I'm choosing to move forward to learning gRPC in Go, because I understand graphQL principles, and need to repetition in different use cases to get used to the Go language/syntax.
 
 I'm also looking forward to getting used to gRPC. After a fair amount of research into the theory, I think it'll help me to understand/use polyglot microservices, which is a personal goal of mine. Using GraphQL with Node servers and React frontends with the past, I've always loved the customizability og GraphQL, but sometimes I worry about sacrificing cacheability or overcommunicating with the user. I'm mostly excited to understand HTTP/2 and the differences between gRPC and gRPC-web with a proxy to interface with normal HTTP calls. 
